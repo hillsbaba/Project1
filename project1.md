@@ -17,6 +17,10 @@ apache2`
 
 ![mysql status](./images/mysql_installed.png)
 
+`sudo apt install php libapache2-mod-php php-mysql`
+
+![php version](./images/PHP_Installed.png)
+
 [install openssh](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 [open ssh key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
