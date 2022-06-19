@@ -9,6 +9,8 @@ apache2`
 
 ![Apache status](./images/Apache_Status.png)
 
+![Apache default page](./images/Apache_default_page.png)
+
 [install openssh](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 [open ssh key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
