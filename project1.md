@@ -11,6 +11,12 @@ apache2`
 
 ![Apache default page](./images/Apache_default_page.png)
 
+`sudo apt install mysql-server`
+
+`sudo mysql`
+
+![mysql status](./images/mysql_installed.png)
+
 [install openssh](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 [open ssh key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
